@@ -1,0 +1,1 @@
+# Componente_React_Native
